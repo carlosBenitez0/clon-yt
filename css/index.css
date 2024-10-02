@@ -214,3 +214,37 @@ body {
     color: #303030;
     background-color: white;
 }
+
+/*        CARD        */
+
+
+
+.temporal {
+    width: 100px;
+}
+
+.card {}
+
+.card svg {
+    color: white;
+}
+
+.card-img-container {}
+
+.temporal {}
+
+.card-info-container {}
+
+.user-img-container {}
+
+.card-text-container {}
+
+.card-video-title {}
+
+.card-user-name-container {}
+
+.card-user-name {}
+
+.card-video-description {}
+
+.card-video-options-container {}
